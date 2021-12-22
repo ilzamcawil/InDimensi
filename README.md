@@ -7,6 +7,8 @@ mengedit table poin
 
 mengedit login
 
+menambah CRUD dalam penjualan jasa
+
 
 
 
